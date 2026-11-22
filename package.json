@@ -1,0 +1,14 @@
+{
+  "name": "helpdeskfx-api",
+  "version": "1.0.0",
+  "description": "API REST de incidencias y clientes para HelpDeskFX",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "picocolors": "^1.1.1"
+  }
+}
